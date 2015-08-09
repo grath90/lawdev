@@ -28,7 +28,7 @@
             </div>
             <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
                 <a href="#" class="thumbnail">
-                    <img src="img/attorneys/attorneys7x5.jpg" alt="img/attorneys/attorneys7x5.jpg">
+                    <img src="img/attorneys/attorneys7x5.JPG" alt="img/attorneys/attorneys7x5.jpg">
                 </a>
             </div>
         </div>
