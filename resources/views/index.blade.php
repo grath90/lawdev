@@ -5,7 +5,7 @@
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                     <a href="#" class="thumbnail">
-                        <img src="img/logo.png" alt="...">
+                        <img src="img/logo.png" alt="img/logo.png">
                     </a>
                 </div>
             </div>
@@ -28,7 +28,7 @@
             </div>
             <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
                 <a href="#" class="thumbnail">
-                    <img src="img/attorneys/attorneys7x5.jpg" alt="...">
+                    <img src="img/attorneys/attorneys7x5.jpg" alt="img/attorneys/attorneys7x5.jpg">
                 </a>
             </div>
         </div>

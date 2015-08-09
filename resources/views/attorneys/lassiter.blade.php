@@ -25,6 +25,6 @@
 @stop
 @section("bio_pic")
                 <div class="thumbnail">
-                    <img src="img/attorneys/lassiter1.jpg">
+                    <img src="img/attorneys/lassiter1.jpg" alt="img/attorneys/lassiter1.jpg">
                 </div>
 @stop
