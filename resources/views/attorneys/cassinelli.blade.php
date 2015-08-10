@@ -31,5 +31,5 @@
 @stop
 
 @section("bio_pic")
-    <img src="img/attorneys/cassinelli1.JPG" class="img-responsive" alt="Responsive image">
+    <img src="img/attorneys/cassinelli1.JPG">
 @stop
