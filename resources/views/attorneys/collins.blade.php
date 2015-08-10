@@ -11,7 +11,5 @@
     <p>Ms. Collins is a member of the Arkansas Association of Criminal Defense Lawyers, the National Association of Criminal Defense Lawyers, the American Bar Association, the Arkansas Bar Association, and the Pulaski County Bar Association.</p>
 @stop
 @section("bio_pic")
-    <div class="thumbnail">
-        <img src="img/attorneys/collins1.JPG" alt="img/attorneys/collins1.jpg">
-    </div>
+    <img src="img/attorneys/collins1.JPG" class="img-responsive" alt="Responsive image">
 @stop

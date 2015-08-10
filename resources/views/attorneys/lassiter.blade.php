@@ -24,7 +24,5 @@
                     He is admitted to practice in the United States Courts of Appeals for the 5th, 8th, and 11th Circuits.</p>
 @stop
 @section("bio_pic")
-                <div class="thumbnail">
-                    <img src="img/attorneys/lassiter1.JPG" alt="img/attorneys/lassiter1.jpg">
-                </div>
+    <img src="img/attorneys/lassiter1.JPG" class="img-responsive" alt="Responsive image">
 @stop
