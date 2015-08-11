@@ -13,5 +13,5 @@
     Contact Ms. Collins at <a href="mailto:lauren@lcarklaw.com">lauren@lcarklaw.com</a>
 @stop
 @section("bio_pic")
-    <img src="img/attorneys/collins1.jpg">
+    <img src="img/attorneys/collins1.JPG">
 @stop

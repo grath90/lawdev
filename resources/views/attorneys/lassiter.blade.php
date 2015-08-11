@@ -26,5 +26,5 @@
                 <p>Contact Mr. Lassiter at <a href="mailto:jack@lcarklaw.com">jack@lcarklaw.com</a></p>
 @stop
 @section("bio_pic")
-    <img src="img/attorneys/lassiter1.jpg">
+    <img src="img/attorneys/lassiter1.JPG">
 @stop

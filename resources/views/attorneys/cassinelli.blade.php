@@ -33,5 +33,5 @@
 @stop
 
 @section("bio_pic")
-    <img src="img/attorneys/cassinelli1.jpg">
+    <img src="img/attorneys/cassinelli1.JPG">
 @stop
