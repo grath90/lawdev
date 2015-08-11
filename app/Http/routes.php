@@ -22,7 +22,7 @@ Route::get('awards', array('as' => 'awards', 'uses' => 'StaticController@awards'
 Route::get('location', array('as' => 'location', 'uses' => 'StaticController@location'));
 
 //contact page
-Route::get('contact', array('as' => 'contact', 'uses' => 'StaticController@contact'));
+//Route::get('contact', array('as' => 'contact', 'uses' => 'StaticController@contact'));
 
 //-----attorneys------
 

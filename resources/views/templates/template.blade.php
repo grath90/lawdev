@@ -39,7 +39,7 @@
                     </li>
                     <li><a href="{{ route('awards') }}">Awards</a> </li>
                     <li><a href="{{ route('location') }}">Location</a></li>
-                    <li><a href="{{ route('contact') }}">Contact Us</a></li>
+                    <!--<li><a href="#">Contact Us</a></li>-->
                 </ul>
             </div>
         </div>

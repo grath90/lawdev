@@ -29,10 +29,10 @@ class StaticController extends Controller
         return view('location');
     }
 
-    public function contact()
+    /**public function contact()
     {
         return view('contact');
-    }
+    }**/
 
 
 
