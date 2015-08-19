@@ -14,7 +14,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <h4>Jack Lassiter and Erin Cassinelli are attorneys in Little Rock, Arkansas with a practice that focuses on criminal defense in federal and state courts throughout Arkansas.</h4>
+                <h4>Jack Lassiter, Erin Cassinelli, and Lauren Collins are attorneys in Little Rock, Arkansas with a practice that focuses on criminal defense in federal and state courts throughout Arkansas.</h4>
             </div>
             <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
                 <p>Mr. Lassiter has been licensed for thirty-seven years and has been in private practice with an emphasis on criminal defense since 1977. Ms. Cassinelli has worked with Mr. Lassiter since 2004 and was formally licensed to practice in 2005.
