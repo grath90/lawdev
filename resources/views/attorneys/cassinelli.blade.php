@@ -27,7 +27,7 @@
     <p>Ms. Cassinelli and the staff at Lassiter & Cassinelli feel their relationships with their clients are of the utmost importance role.
     Ms. Cassinelli chose this area of her profession because of her steadfast belief that each person suspected of a crime is entitled to and deserves effective representation.
     It is important to Ms. Cassinelli that each client be respected, feel comfortable sharing a difficult time in life with her and her staff, and know that she is proud to stand with them and defend them to the fullest extent.
-    The criminal justice system cannot function properly and achieve just results without adequate defensive representation and adversarial testing performed by at attorney who is committed to both the system and each client she represents.</p>
+    The criminal justice system cannot function properly and achieve just results without adequate defensive representation and adversarial testing performed by an attorney who is committed to both the system and each client she represents.</p>
 
     <p>Contact Ms. Cassinelli at <a href="mailto:erin@lcarklaw.com">erin@lcarklaw.com</a></p>
 @stop
