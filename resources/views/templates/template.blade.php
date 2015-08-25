@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Lassiter & Cassinelli</title>
+    <title>Lassiter</title>
     <!--<link href="../vendor/twbs/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
     <script src="../vendor/components/jquery/jquery.min.js"></script>-->
     <!-- Latest compiled and minified CSS -->
