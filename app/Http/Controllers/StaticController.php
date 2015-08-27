@@ -19,10 +19,10 @@ class StaticController extends Controller
         return view('index');
     }
 
-    public function awards()
+    /**public function awards()
     {
         return view('awards');
-    }
+    }**/
 
     public function location()
     {

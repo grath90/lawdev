@@ -16,7 +16,7 @@
 Route::get('/', array('as' => 'index', 'uses' => 'StaticController@index'));
 
 //awards page
-Route::get('awards', array('as' => 'awards', 'uses' => 'StaticController@awards'));
+//Route::get('awards', array('as' => 'awards', 'uses' => 'StaticController@awards'));
 
 //location page
 Route::get('location', array('as' => 'location', 'uses' => 'StaticController@location'));

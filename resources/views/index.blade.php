@@ -25,6 +25,10 @@
                     Mr. Lassiter and Ms. Cassinelli are AV rated by Martindale-Hubbell, a rating indicating that their peers rank them at the highest level of professional excellence.</p>
                 <p>Lauren Collins began working for Mr. Lassiter and Ms. Cassinelli in early 2012 as a law clerk and has worked under Mr. Lassiter and Ms. Cassinelli as an associate attorney since early 2014.</p>
                 <p>The attorneys and staff at Lassiter & Cassinelli work diligently every day to ensure that each person is treated fairly and justly under the law and to provide outstanding representation to each one of their clients.</p>
+                <p>The staff at Lassiter & Cassinelli feel their relationships with their clients are of the utmost importance.
+                    Lassiter & Cassienlli chose this area of the profession because of their steadfast belief that each person suspected of a crime is entitled to and deserves effective representation.
+                    It is important to that each client be respected, feel comfortable sharing a difficult time in life with the staff, and know that they are proud to stand with them and defend them to the fullest extent.
+                    The criminal justice system cannot function properly and achieve just results without adequate defensive representation and adversarial testing performed by an attorney who is committed to both the system and each client Lassiter & Cassinelli represents.</p>
             </div>
             <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
                 <a href="#" class="thumbnail">

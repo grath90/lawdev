@@ -37,7 +37,6 @@
                             <li><a href="{{ route('collins') }}">Lauren Collins</a></li>
                         </ul>
                     </li>
-                    <li><a href="{{ route('awards') }}">Awards</a> </li>
                     <li><a href="{{ route('location') }}">Location</a></li>
                     <!--<li><a href="#">Contact Us</a></li>-->
                 </ul>
