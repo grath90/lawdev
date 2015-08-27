@@ -24,6 +24,7 @@
                     The College also counts the Justices of the United States Supreme Court among its membership.
                     Mr. Lassiter and Ms. Cassinelli are AV rated by Martindale-Hubbell, a rating indicating that their peers rank them at the highest level of professional excellence.</p>
                 <p>Lauren Collins began working for Mr. Lassiter and Ms. Cassinelli in early 2012 as a law clerk and has worked under Mr. Lassiter and Ms. Cassinelli as an associate attorney since early 2014.</p>
+                <p>Our legal assistant, Jené Louviere, is also available each day to answer client calls. She is happy to assist clients in making appointments, obtaining other information, and to generally provide assistance to those who contact our office.</p>
                 <p>The attorneys and staff at Lassiter & Cassinelli work diligently every day to ensure that each person is treated fairly and justly under the law and to provide outstanding representation to each one of their clients.</p>
                 <p>The staff at Lassiter & Cassinelli feel their relationships with their clients are of the utmost importance.
                     Lassiter & Cassienlli chose this area of the profession because of their steadfast belief that each person suspected of a crime is entitled to and deserves effective representation.
